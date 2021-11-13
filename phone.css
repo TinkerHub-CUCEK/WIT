@@ -1,0 +1,44 @@
+/*home*/
+#about{
+    height: 820px;
+}
+.headings{
+    font-size: 1.7rem;
+}
+.subhead{
+
+    position:absolute;
+    top:31%;
+    right: 31%;
+   
+    
+}
+.main p{
+   
+    font-size: 1em;
+}
+.btn{
+    pointer-events: none;
+    position: absolute;
+    top: 72.5%;
+    left:41%;
+}
+.main p{
+    font-size: 1.2em;
+    position:absolute;
+    left: 20%;
+   
+}
+.call{
+    position: absolute;
+    top:85%;
+}
+.email{
+    position: absolute;
+    top:91%;
+}
+.sm{
+    position: absolute;
+    top:94%;
+    left:39%;
+}

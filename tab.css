@@ -1,0 +1,38 @@
+/*Navbar*/
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/*headings*/
+.headings{
+    font-size: 2.5rem;
+}
+.subhead{
+    position: absolute;
+    top:32%;
+}
+.main p{
+    font-size: 1.2em;
+    position:absolute;
+    left: 25%;
+}
+.btn{
+    position: absolute;
+    top:63%;
+    pointer-events: none;
+}
+.call{
+    position:absolute;
+    left:46%;
+    top:76%;
+}
+.sm{
+    position: absolute;
+    left:42%;
+}
+.email{
+    position: absolute;
+    left:42%;
+    top:84%;
+}
